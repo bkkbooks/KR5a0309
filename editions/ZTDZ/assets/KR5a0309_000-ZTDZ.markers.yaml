@@ -1,0 +1,11 @@
+canonical_identifier: bkk:krp/KR5a0309/ZTDZ/v1/markers/0
+seq: 0
+markers:
+  front: []
+  body:
+  - {type: paragraph-break, offset: 0, content: '
+
+
+      ', id: KR5a0309_ZTDZ_000-bkkp1}
+  back: []
+hash: sha256:1c184de61df0332f4d11a1fd70a211baaf6200c0912398e13c47139a11a0e419
